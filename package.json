@@ -1,0 +1,16 @@
+{
+  "name": "brain-with-phoenix",
+  "version": "1.0.0",
+  "description": "this example will be of brain.js library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brainjs",
+    "aiwithjs",
+    "neauralnetworkinjs"
+  ],
+  "author": "Het Patel",
+  "license": "ISC"
+}
